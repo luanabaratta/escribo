@@ -12,4 +12,6 @@ const adder = referenceNumber => {
 }
 
 console.log(adder(10));
-console.log(adder(11));
+
+const result = adder(11);
+console.log(result);
