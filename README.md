@@ -4,6 +4,6 @@
 
 ## How to use
 
-Copy the code for the function *adder* into your JavaScript file;
-Call the Function;
-Use the function passing an integer as an argument.
+* Copy the code for the function *adder* into your JavaScript file;</br>
+* Call the Function;</br>
+* Use the function passing an integer as an argument.
